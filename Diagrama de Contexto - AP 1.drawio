@@ -1,0 +1,268 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.7" pages="2">
+  <diagram name="Diagrama de Contexto - AP 1" id="BzVsLhnD4404hUswXQgM">
+    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rwwny2NRJCAZUOCTBiWp-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="20" width="670" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="rwwny2NRJCAZUOCTBiWp-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rwwny2NRJCAZUOCTBiWp-3" target="rwwny2NRJCAZUOCTBiWp-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="150" />
+              <mxPoint x="260" y="355" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rwwny2NRJCAZUOCTBiWp-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="50" y="20" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="rwwny2NRJCAZUOCTBiWp-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="570" y="20" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="rwwny2NRJCAZUOCTBiWp-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rwwny2NRJCAZUOCTBiWp-5" target="rwwny2NRJCAZUOCTBiWp-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rwwny2NRJCAZUOCTBiWp-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="570" y="540" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="rwwny2NRJCAZUOCTBiWp-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.987;entryY=0.34;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rwwny2NRJCAZUOCTBiWp-6" target="rwwny2NRJCAZUOCTBiWp-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="70" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="385" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rwwny2NRJCAZUOCTBiWp-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="rwwny2NRJCAZUOCTBiWp-6" target="rwwny2NRJCAZUOCTBiWp-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="277" />
+              <mxPoint x="460" y="110" />
+              <mxPoint x="530" y="110" />
+              <mxPoint x="530" y="58" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rwwny2NRJCAZUOCTBiWp-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="275" y="245" width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="rwwny2NRJCAZUOCTBiWp-10" value="1 - Sistema de gestion de reserva y equipos" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;align=center;fontStyle=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="320" y="327.5" width="130" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="rwwny2NRJCAZUOCTBiWp-11" value="Jugadores" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;align=center;fontStyle=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="87.5" y="77.5" width="75" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="rwwny2NRJCAZUOCTBiWp-12" value="Complejo deportivo" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;align=center;fontStyle=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="610" y="75" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rwwny2NRJCAZUOCTBiWp-13" value="Administrador" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;align=center;fontStyle=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="595" y="595" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rwwny2NRJCAZUOCTBiWp-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.555;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rwwny2NRJCAZUOCTBiWp-4" target="rwwny2NRJCAZUOCTBiWp-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="533" y="150" />
+              <mxPoint x="533" y="367" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rwwny2NRJCAZUOCTBiWp-22" value="1 - Confirmación de asistencia" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;align=center;fontStyle=1;verticalAlign=middle;direction=east;flipV=1;flipH=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="100" width="110" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rwwny2NRJCAZUOCTBiWp-23" value="2 - Datos de la reserva" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;align=center;fontStyle=1;verticalAlign=middle;direction=east;flipV=1;flipH=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="22.5" width="110" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rwwny2NRJCAZUOCTBiWp-29" value="4 - Reserva" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;align=center;fontStyle=1;verticalAlign=middle;direction=east;flipV=1;flipH=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="75" width="80" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rwwny2NRJCAZUOCTBiWp-28" value="3 - Disponibilidad y Costos" style="text;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;align=center;fontStyle=1;verticalAlign=middle;direction=west;flipV=0;flipH=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="200" width="110" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rwwny2NRJCAZUOCTBiWp-31" value="5 - Listado de jugadores" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;align=center;fontStyle=1;verticalAlign=middle;direction=east;flipV=1;flipH=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="570" width="110" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rwwny2NRJCAZUOCTBiWp-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rwwny2NRJCAZUOCTBiWp-6" target="rwwny2NRJCAZUOCTBiWp-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="463" y="460" />
+              <mxPoint x="645" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rwwny2NRJCAZUOCTBiWp-33" value="6 - Jugadores Confirmados" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;align=center;fontStyle=1;verticalAlign=middle;direction=east;flipV=1;flipH=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="417.5" width="110" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="AweYWSQ7HhAV4aKzqOpQ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.118;entryY=0.823;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="676.44" as="sourcePoint" />
+            <mxPoint x="300.96000000000004" y="449.99999999999994" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AweYWSQ7HhAV4aKzqOpQ-4" value="7 - Cobranzas" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;align=center;fontStyle=1;verticalAlign=middle;direction=east;flipV=1;flipH=0;" vertex="1" parent="1">
+          <mxGeometry x="304" y="623.94" width="110" height="36.06" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="dACcMWMzTxIH3XZsMmwi" name="Modelo Preliminar">
+    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tAKv9Q6AVjJQRZjW2_Zl-2" value="" style="swimlane;startSize=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="40" width="740" height="545" as="geometry">
+            <mxRectangle x="50" y="70" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tAKv9Q6AVjJQRZjW2_Zl-5" value="1 - Confirmar disponibilidad" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="tAKv9Q6AVjJQRZjW2_Zl-2">
+          <mxGeometry x="370" y="20" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="jIZnuBEkv9I5W7eM6w9s-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="tAKv9Q6AVjJQRZjW2_Zl-2" source="tAKv9Q6AVjJQRZjW2_Zl-4" target="HCYxelekvvuXjfe2B53j-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="105" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIZnuBEkv9I5W7eM6w9s-28" value="4. Listado jugadores seleccionados" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jIZnuBEkv9I5W7eM6w9s-17">
+          <mxGeometry x="-0.0693" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tAKv9Q6AVjJQRZjW2_Zl-4" value="3 - Armar equipos" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="tAKv9Q6AVjJQRZjW2_Zl-2">
+          <mxGeometry x="40" y="340" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="tAKv9Q6AVjJQRZjW2_Zl-6" value="2 - Coordinar reserva de cancha" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="tAKv9Q6AVjJQRZjW2_Zl-2">
+          <mxGeometry x="600" y="200" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="HCYxelekvvuXjfe2B53j-1" value="Jugadores" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="tAKv9Q6AVjJQRZjW2_Zl-2">
+          <mxGeometry width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="jIZnuBEkv9I5W7eM6w9s-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="tAKv9Q6AVjJQRZjW2_Zl-2" source="HCYxelekvvuXjfe2B53j-3" target="tAKv9Q6AVjJQRZjW2_Zl-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jIZnuBEkv9I5W7eM6w9s-38" value="9. Confirmación reserva" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jIZnuBEkv9I5W7eM6w9s-18">
+          <mxGeometry x="0.1385" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HCYxelekvvuXjfe2B53j-3" value="Administrador" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="tAKv9Q6AVjJQRZjW2_Zl-2">
+          <mxGeometry x="590" y="395" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="jIZnuBEkv9I5W7eM6w9s-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="tAKv9Q6AVjJQRZjW2_Zl-2" source="HCYxelekvvuXjfe2B53j-2" target="tAKv9Q6AVjJQRZjW2_Zl-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jIZnuBEkv9I5W7eM6w9s-33" value="7. Canchas disponibles y costos" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jIZnuBEkv9I5W7eM6w9s-19">
+          <mxGeometry x="-0.08" y="1" relative="1" as="geometry">
+            <mxPoint x="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HCYxelekvvuXjfe2B53j-2" value="Complejo deportivo" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="tAKv9Q6AVjJQRZjW2_Zl-2">
+          <mxGeometry x="590" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="odNNvXNxEx9VZvMUIgOJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tAKv9Q6AVjJQRZjW2_Zl-2" source="IT4auSLrDE91QPuxB5G2-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="odNNvXNxEx9VZvMUIgOJ-2" value="6 - Listado Jugadores Pagaron" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="odNNvXNxEx9VZvMUIgOJ-1">
+          <mxGeometry x="-0.08" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IT4auSLrDE91QPuxB5G2-1" value="4 - Cobrar y Pagar" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="tAKv9Q6AVjJQRZjW2_Zl-2">
+          <mxGeometry x="280" y="340" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="IT4auSLrDE91QPuxB5G2-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.969;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="tAKv9Q6AVjJQRZjW2_Zl-2" source="HCYxelekvvuXjfe2B53j-3" target="IT4auSLrDE91QPuxB5G2-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="496" y="420" />
+              <mxPoint x="496" y="418" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIZnuBEkv9I5W7eM6w9s-29" value="5. Información Cobranzas" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IT4auSLrDE91QPuxB5G2-3">
+          <mxGeometry x="-0.038" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIZnuBEkv9I5W7eM6w9s-5" value="" style="shape=link;html=1;rounded=0;width=40;" edge="1" parent="tAKv9Q6AVjJQRZjW2_Zl-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="25" y="210" as="sourcePoint" />
+            <mxPoint x="185" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIZnuBEkv9I5W7eM6w9s-6" value="" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="jIZnuBEkv9I5W7eM6w9s-5">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jIZnuBEkv9I5W7eM6w9s-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tAKv9Q6AVjJQRZjW2_Zl-2" source="HCYxelekvvuXjfe2B53j-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIZnuBEkv9I5W7eM6w9s-25" value="1. Datos Jugador" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jIZnuBEkv9I5W7eM6w9s-9">
+          <mxGeometry x="-0.2835" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIZnuBEkv9I5W7eM6w9s-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="tAKv9Q6AVjJQRZjW2_Zl-2" source="jIZnuBEkv9I5W7eM6w9s-7" target="tAKv9Q6AVjJQRZjW2_Zl-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jIZnuBEkv9I5W7eM6w9s-27" value="3. Listado Jugadores Disponibles" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jIZnuBEkv9I5W7eM6w9s-16">
+          <mxGeometry x="-0.0364" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIZnuBEkv9I5W7eM6w9s-7" value="Datos Jugadores" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="tAKv9Q6AVjJQRZjW2_Zl-2">
+          <mxGeometry x="50" y="200" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jIZnuBEkv9I5W7eM6w9s-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tAKv9Q6AVjJQRZjW2_Zl-2" source="tAKv9Q6AVjJQRZjW2_Zl-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="288" y="100" />
+              <mxPoint x="288" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIZnuBEkv9I5W7eM6w9s-26" value="2. Confirmacion Jugadores" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jIZnuBEkv9I5W7eM6w9s-11">
+          <mxGeometry x="-0.0605" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIZnuBEkv9I5W7eM6w9s-20" value="" style="shape=link;html=1;rounded=0;width=40;" edge="1" parent="tAKv9Q6AVjJQRZjW2_Zl-2" target="jIZnuBEkv9I5W7eM6w9s-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="354" y="264.5" as="sourcePoint" />
+            <mxPoint x="514" y="264.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="265" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIZnuBEkv9I5W7eM6w9s-21" value="" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="jIZnuBEkv9I5W7eM6w9s-20">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jIZnuBEkv9I5W7eM6w9s-22" value="Reserva" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="tAKv9Q6AVjJQRZjW2_Zl-2">
+          <mxGeometry x="350" y="250" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jIZnuBEkv9I5W7eM6w9s-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tAKv9Q6AVjJQRZjW2_Zl-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="264.5" as="sourcePoint" />
+            <mxPoint x="590" y="264.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="264.5" />
+              <mxPoint x="590" y="264.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jIZnuBEkv9I5W7eM6w9s-34" value="8 - Pago de Cancha" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jIZnuBEkv9I5W7eM6w9s-24">
+          <mxGeometry x="-0.1556" y="2" relative="1" as="geometry">
+            <mxPoint x="-38" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
